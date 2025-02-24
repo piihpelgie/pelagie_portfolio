@@ -13,7 +13,7 @@
        font-weight: bold;
     }
     .desktop_menu{
-       display: flex;
+       display: none;
     }
     .mobile_menu{
        display: flex;
